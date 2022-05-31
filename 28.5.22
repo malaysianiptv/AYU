@@ -1,3 +1,10 @@
+
+#EXTM3U
+#EXTM3U x-url-tvg="https://ayuh.jomlah.download/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml.gz"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+
+
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="BASIC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1  
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
