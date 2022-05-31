@@ -1,0 +1,114 @@
+
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" url-tvg="https://weareblahs.github.io/epg/rtmklik.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+
+#EXTINF:-1 group-title="BASIC" tvg-id="TV1" tvg-chno="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 group-title="BASIC" tvg-id="TV2" tvg-chno="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:-1 group-title="BASIC" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="BASIC" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
+
+
+
+#EXTINF:-1 tvg-id="106" group-title="BASIC" tvg-logo="https://mediahomes.github.io/logos/tv6.png",106 TV6
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 group-title="BASIC" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="BASIC" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="BASIC" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="BASIC" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="BASIC" tvg-id="OKEY" tvg-chno="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",146 TV Okey
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-id="123" group-title="BASIC" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",123 Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="111" group-title="BASIC" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 group-title="BASIC" tvg-id="TVS" tvg-chno="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS 
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-name="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="BASIC",IKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="GoShop2" tvg-chno="GoShop2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/202_144.png" group-title="ASTRO",Go Shop 
+https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
+#EXTINF:-1 tvg-id="AstroAwani" ch-number:"AstroAwani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWQyZGI1NzMtYjE5Mi0zY2QxLThkZTAtZjNjMDQ4NGUyYWEz
+#EXTINF:-1 tvg-id="MAKKAH TV" ch-number="MAKKAH TV" tvg-logo="https://i.pinimg.com/736x/17/ff/64/17ff64a29d2d21ddb4c6b89e4fd0613c.jpg" group-title="ASTRO",MAKKAH TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="111" group-title="SPORT" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="SPORT",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://ih1.redbubble.net/image.917637560.5551/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="SPORT",UFC
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="MOVIES",Pluto TV 1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="MOVIES",Pluto TV 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="MOVIES",Pluto TV 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+
+#EXTINF:-1 tvg-id="123" group-title="NEWS" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",123 Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="513" tvg-name="Al Jazeera English HD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-id="503" tvg-name="CGTN" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+
