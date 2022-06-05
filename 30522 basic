@@ -116,6 +116,29 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://ih1.redbubble.net/image.917637560.5551/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="SPORT",UFC
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
+#EXTINF:-1 group-title="DENS.TV",ASTRO ARENA 
+http://axcestv.vip:8080/live/freeview/axcestv/785.ts
+#EXTINF:-1 group-title="DENS.TV",ASTRO ARENA 2
+http://axcestv.vip:8080/live/freeview/axcestv/785.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP
+http://axcestv.vip:8080/live/freeview/axcestv/787.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP 2
+http://axcestv.vip:8080/live/freeview/axcestv/789.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP 3
+http://axcestv.vip:8080/live/freeview/axcestv/790.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP 4
+http://axcestv.vip:8080/live/freeview/axcestv/791.ts
+#EXTINF:-1 group-title="DENS.TV",ASSP 5
+http://axcestv.vip:8080/live/freeview/axcestv/792.ts
+#EXTINF:-1 group-title="DENS.TV",SPO TV
+http://axcestv.vip:8080/live/freeview/axcestv/807.ts
+#EXTINF:-1 group-title="DENS.TV",SPO TV 2
+http://axcestv.vip:8080/live/freeview/axcestv/977.ts
+#EXTINF:-1 group-title="DENS.TV",USEE SPORT
+http://axcestv.vip:8080/live/freeview/axcestv/805.ts
+#EXTINF:-1 group-title="DENS.TV",USEE SPORT 2
+http://axcestv.vip:8080/live/freeview/axcestv/806.ts
+
 
 
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="MOVIES",Pluto TV 1
