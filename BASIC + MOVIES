@@ -5,56 +5,47 @@
 
 
 
-#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="BASIC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
-https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+--------------------- RTMKlik -----------------------
 
-#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="BASIC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 ALT
+#EXTINF:-1 tvg-id="RTMK01" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Malaysia: RTMKlik",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+http://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="BASIC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="BASIC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 ALT
+#EXTINF:-1 tvg-id="RTMK02" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="Malaysia: RTMKlik",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/manifest.mpd
+http://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="BASIC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-
-#EXTINF:-1 group-title="BASIC" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 ALT 
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
-#https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-
-
-
-#EXTINF:-1 tvg-id="106" group-title="BASIC" tvg-logo="https://mediahomes.github.io/logos/tv6.png",106 TV6
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-ID="RTMK06" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Malaysia: RTMKlik",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://rtm7hd.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.mpd
+http://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 group-title="BASIC" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-
-#EXTINF:-1 group-title="BASIC" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-
-#EXTINF:-1 group-title="BASIC" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-
-#EXTINF:-1 group-title="BASIC" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-
-#EXTINF:-1 group-title="BASIC" tvg-id="OKEY" tvg-chno="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",146 TV Okey
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-ID="RTMK03" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Malaysia: RTMKlik",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+http://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
+#EXTINF:-1 tvg-ID="RTMK04" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/berita%20rtm.png" group-title="Malaysia: RTMKlik",BERITA RTM
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+https://rtm3hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+http://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+#EXTINF:-1 tvg-id="RTMK05" group-title="Malaysia: RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM SUKAN
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/manifest.mpd
+http://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
+#EXTINF:-1 tvg-ID="RTMK07" tvg-logo="https://i.imgur.com/i7Z8C1s.png" group-title="Malaysia: RTMKlik",RTM PARLIMEN
+https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+http://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
 
 #EXTINF:-1 tvg-id="123" group-title="BASIC" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",123 Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -64,23 +55,34 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd600869fd5f4bfee286825f6d778b10:eb5b83acbbd79af479a00db92935a34b
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" group-title="BASIC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS 
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 tvg-ID="103" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia: Tonton Xtra",TV3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-id="114" tvg-name="IKIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="BASIC",IKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
-#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" group-title="BASIC" tvg-logo="https://iili.io/1NqAMl.png",123 Awesome TV 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+#EXTINF:-1 tvg-ID="103" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia: Tonton Xtra",TV3 HD
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
-#EXTINF:-1 tvg-id="114" tvg-name="TV AL-HIJRAH" group-title="BASIC" tvg-logo="https://iili.io/1NqqFI.png",114 Al-Hijrah 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 group-title="Malaysia: Tonton Xtra" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 2
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+
+#EXTINF:-1 tvg-ID="147" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="Malaysia: Tonton Xtra",NTV 7 KPM
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:-1 tvg-ID="148" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia: Tonton Xtra",8TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+#EXTINF:-1 tvg-ID="149" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia: Tonton Xtra",TV9
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Malaysia: Tonton Xtra",DRAMA SANGAT
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+http://iptv12k.com:35461/80201033004/324542/5997
 
 --------------------ASTRO>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -643,68 +645,49 @@ https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c626a3022340ea1d7af15e51a118a10:543ce4c3e6139f46c4a95c57ef64f540
-#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" group-title="DOKUMENTARI" tvg-logo="https://iili.io/1Nn6lV.png",550 National Geographic Wild
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=394a40dfff6320fca4a327d7c3127610:68633db62849223bb7de00c64f87166f
-#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" group-title="DOKUMENTARI" tvg-logo="https://iili.io/1NnPUB.png",551 National Geographic
-http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5cd1850280996e9ced09c72027dfdb10&key=3a1d9a18b0d1ffc99ab259e16b3dc5dc
+#EXTINF:-1 tvg-id="521" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png" ch-number="521",DW HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=398c7f60db4c1639c85be89047de8310:7b78f26fd99c7f9e43349547dc8030bc
-#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" group-title="DOKUMENTARI" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png",552 Discovery Channel
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
-
-#EXTINF:-1 tvg-id="709" group-title="DOKUMENTARI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
-https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b1200000.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b937206e3d14cbb00611532f69f92c10&key=8f1b9168c854238f668acf898be6f7b0
+#EXTINF:-1 tvg-id="522" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/France24_v1.png" ch-number="522",France 24
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea24fcf5a4e5a1a25a8d118c088dc510:effd0dfaddcd0e533314d5305abe031c
-#EXTINF:-1 tvg-id="716" tvg-name="DMAX HD" group-title="DOKUMENTARI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",716 DMAX 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5ac299099f8bd93d1cc5a96180d7810:6d931bb991f70059daba1d552f2b4427
-#EXTINF:-1 tvg-id="553" tvg-name="Discovery Asia HD" group-title="DOKUMENTARI" tvg-logo="https://iili.io/1NnLR1.png",553 Discovery Asia
-https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0c626a3022340ea1d7af15e51a118a10&key=543ce4c3e6139f46c4a95c57ef64f540
+#EXTINF:-1 tvg-id="550" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png" ch-number="550",NatGeo WILD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
-#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=394a40dfff6320fca4a327d7c3127610&key=68633db62849223bb7de00c64f87166f
+#EXTINF:-1 tvg-id="551" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/National_Geographic_v1.png" ch-number="551",National Geographic
+https://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Baby First" tvg-name="Baby First" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="KIDS",Baby First
-https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=398c7f60db4c1639c85be89047de8310&key=7b78f26fd99c7f9e43349547dc8030bc
+#EXTINF:-1 tvg-id="552" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" ch-number="552",Discovery
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#EXTINF:-1 tvg-id="MoonbugKids" tvg-name="MoonbugKids" tvg-logo="https://seeklogo.com/images/M/moonbug-kids-logo-D454044A25-seeklogo.com.png" group-title="KIDS",MoonbugKids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e5ac299099f8bd93d1cc5a96180d7810&key=6d931bb991f70059daba1d552f2b4427
+#EXTINF:-1 tvg-id="553" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="Malaysia: Astro On The Go",Discovery Asia
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8b132be22fca4d1538e2cfa009f08a10&key=d0a2208f3d5a556f831ad4de9fe7e31c
+#EXTINF:-1 tvg-id="554" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="Malaysia: Astro On The Go",BBC Earth
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="KIDS",ZooMoo Kids 
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c3743253e4717ebb939a814f6a20ac10&key=455e412c13c6369c12555ade2af64a04
+#EXTINF:-1 tvg-id="555" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Malaysia: Astro On The Go",History
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="KIDS",NICK JR
-https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="KIDS",NICKELODEON
-https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="KIDS",Baby TV
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w702505816.m3u8
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7ac5123e3450ed42e5c03a4e9f07b710&key=5e01133b2bc59acf9d9ce16849365671
+#EXTINF:-1 tvg-id="556" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="Malaysia: Astro On The Go",Animal Planet
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
 
 
