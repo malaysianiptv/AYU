@@ -799,6 +799,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 https://live.astradamy.com/astro/vinmeen/index.mpd
 https://linears-playback.astro.com.my/vsg/41xB8gCgwPHfd6hkLEqN9RcpyNnipRg0wWr5_iZdDFgZQ=8Z8l/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD1" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen 
+#https://link.zozotv.xyz:443/shukrisinar/shukrisinar/57
+#http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Astrox Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
