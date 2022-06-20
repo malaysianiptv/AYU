@@ -109,6 +109,9 @@ https://linears-playback.astro.com.my/vsg/41iitOroUVfGcWeNSX66iB_pqVz4JADqC7lFp_
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA",Ria
 http://axcestv.vip:8080/freeview/axcestv/453
 
+#EXTINF:-1 tvg-logo="" group-title="alaysia: Astro On The Go",Astro RiaALT3
+http://iptv12k.com:35461/80201051217/424567/735
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
