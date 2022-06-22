@@ -142,6 +142,13 @@ http://axcestv.vip:8080/freeview/axcestv/449
 https://live.astradamy.com/astro/warna/index.mpd
 https://linears-playback.astro.com.my/vsg/41plkGTPwt3XmRVANW0LqjTYtMRdYgPHkT0oK8UUYcEPY=cK5T/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Malaysia: Astro On The Go" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",ASTRO WARNA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
+https://links.aqfadtv.xyz/warna.mpd
+https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704167
+https://Astro.kpsboyserver.com/AstroWarna.mpd
+
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
