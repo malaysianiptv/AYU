@@ -299,7 +299,10 @@ http://iptv12k.com:35461/80201051217/424567/675
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="INDIAN" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
 http://iptv12k.com:35461/80201051217/424567/678
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
+#EXTINF:-1 tvg-id="203" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png" group-title="INDIAN",Astro Vellithirai
+http://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_ott.mpd
 
 
 
