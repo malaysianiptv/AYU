@@ -123,6 +123,27 @@ https://Astro.kpsboyserver.com/AstroRia.mpd
 #EXTINF:-1 tvg-id="105" ch-number="AstroPrima" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="Malaysia: Astro On The Go",Astro Prima 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
+
+#EXTINF:-1 tvg-id="AstroPrima" group-title="Malaysia: Astro On The Go" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",ASTRO PRIMA HD BACKUP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
+https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586129678
+
+
+
+#EXTINF:-1 tvg-id="AstroPrima" group-title="Malaysia: Astro On The Go" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",ASTRO PRIMA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
+https://links.aqfadtv.xyz/prima.mpd
+
+https://m3u-editor.com/serve/jackstore/545107064
+https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586129679
+https://m3u-editor.com/serve/jackstore/545107064
+https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704163
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
