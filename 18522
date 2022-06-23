@@ -1511,8 +1511,11 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-ID="123" tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="Malaysia: VIP IPTV",AWESOME TV
-http://iptv12k.com:35461/80201033004/324542/743
+
+#EXTINF:-1 tvg-ID="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="Malaysia: VIP IPTV",AWESOME TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 
 #EXTINF:-1 tvg-ID="RTMK06" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Malaysia: VIP IPTV",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
