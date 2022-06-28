@@ -100,26 +100,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 #EXTINF:-1 tvg-id="102" ch-number="102" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malaysia: Astro On The Go",Astro Ria
-https://live.astradamy.com/astro/ria/index.mpd
-https://linears-playback.astro.com.my/vsg/41iitOroUVfGcWeNSX66iB_pqVz4JADqC7lFp_ocmBT4k=Q-6z/dash-wv/jitp-linearwm/1004/default_ott.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",Ria
-http://axcestv.vip:8080/freeview/axcestv/453
-
-#EXTINF:-1 group-title="Malaysia: Astro On The Go" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",ASTRO RIA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://links.aqfadtv.xyz/ria.mpd
-https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bh4Km8kYGpF3q5-mLufjmTM=uy0t/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704165
-https://Astro.kpsboyserver.com/AstroRia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -140,11 +120,7 @@ https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586129678
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
 https://links.aqfadtv.xyz/prima.mpd
 
-https://m3u-editor.com/serve/jackstore/545107064
-https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586129679
-https://m3u-editor.com/serve/jackstore/545107064
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704163
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
 
 
 
@@ -160,31 +136,74 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-logo="" group-title="Malaysia: Astro On The Go",Oasis
 http://axcestv.vip:8080/freeview/axcestv/449
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png" group-title="Malaysia: Astro On The Go",ASTRO RIA HD (BACKUP)
+https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586131995
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="107" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Malaysia: Astro On The Go",Astro Warna
-https://live.astradamy.com/astro/warna/index.mpd
-https://linears-playback.astro.com.my/vsg/41plkGTPwt3XmRVANW0LqjTYtMRdYgPHkT0oK8UUYcEPY=cK5T/dash-wv/jitp-linearwm/2402/default_ott.mpd
+#EXTINF:-1 tvg-id="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850" group-title="Malaysia: Astro On The Go",ASTRO WARNA HD (BACKUP)
+https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586131997
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Malaysia: Astro On The Go" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",ASTRO WARNA HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://links.aqfadtv.xyz/warna.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704167
-https://Astro.kpsboyserver.com/AstroWarna.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+#EXTINF:-1 tvg-id="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355" group-title="Malaysia: Astro On The Go",ASTRO CITRA HD (BACKUP)
+https://m3u-editor.com/serve/fab2e470-f140-11ec-831c-d533cac61260/586132007
 
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Malaysia: Astro On The Go",ASTRO OASIS HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd 
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://Astro.kpsboyserver.com/AstroWarna.mpd
-#https://link.zozotv.xyz/shukrisinar/shukrisinar/35
-#http://w.nasvpn.xyz:8080/live/suke/suke/13344.m3u8 
-#https://tinyurl.com/2s3cksd7
-#http://wanicelife.com:8880/EFLW122114/70NF2GH1/1706
-#https://bit.ly/3J1lMNl
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="Malaysia: Astro On The Go",ASTRO PRIMA HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 
 
