@@ -136,9 +136,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-logo="" group-title="Malaysia: Astro On The Go",Oasis
 http://axcestv.vip:8080/freeview/axcestv/449
 
+#EXTINF:-1 tvg-id="106" group-title="Malaysia: Astro On The Go" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",ASTRO OASIS HD (BACKUP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2505
+https://m3u-editor.com/serve/jackstore/463614331 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",106 Astrox Oasis 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 
 
