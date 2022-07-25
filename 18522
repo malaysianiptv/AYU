@@ -1121,6 +1121,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 # https://linears-playback.astro.com.my/vsg/41--XC1x_lgL3fqw2UE0W3OjTn0MngIhv3oRqn21mKWYg=wdT4/dash-wv/jitp-linearwm/2104/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Malaysia: Astro On The G" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+https://networkbest.ru.com/cdn/premium123/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
 
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Malaysia: Astro On The Go" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
@@ -1130,6 +1136,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704305
 https://Astro.kpsboyserver.com/AstroSP2.mpd
 
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png" group-title="Malaysia: Astro On The Go",Astro SuperSport 2 ALT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
+https://networkbest.ru.com/cdn/premium124/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 
 
@@ -1139,6 +1150,12 @@ https://Astro.kpsboyserver.com/AstroSP2.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704307
 https://Astro.kpsboyserver.com/AstroSP3.mpd
+
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Malaysia: Astro On The Go",Astro SuperSport 3 ALT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
+https://networkbest.ru.com/cdn/premium125/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 
 
