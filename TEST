@@ -22,3 +22,83 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 https://networkbest.ru.com/cdn/premium123/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
+#EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="Sports",WWE NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw87t5fUdh8TWS7AjBnAmcU4LUdRN0TAzubQ&usqp=CAU" group-title="Sports",BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZVm7svR/FOX-SPORTS-NEWS.png" group-title="Sports",FoxSport News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="Sports",Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcmQ30R.png" group-title="Sports",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/5815c8d2-cc70-47b1-9b62-e38d3ab66300_logo-redbulltv.png" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png" group-title="Sports",Sukan RTM
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sports",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Sports",FIGHT SPORTS
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+Astro SuperSport
+-----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro Supersports 1 Backup 1" tvg-logo="" group-title="Astro SuperSport",ASS 1
+#http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro Supersports 2 Backup 1" tvg-logo="" group-title="Astro SuperSport",ASS 2
+#http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro Supersports  3 Backup 1" tvg-logo="" group-title="Astro SuperSport",ASS 3
+#http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro Supersports  4 Backup 1" tvg-logo="" group-title="Astro SuperSport",ASS 4
+#http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115618
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="Astro SuperSport",Astro SuperSport
+#http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441943
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="Astro SuperSport",Astro SuperSport 2
+#http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441942
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Astro SuperSport",Astro SuperSport 3
+#http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441941
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="Astro SuperSport",Astro SuperSport 4
+#http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441940
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="Astro SuperSport",Astro SuperSport 5
+#http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/1088037
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", group-title="Astro SuperSport" ,MY: Astro SuperSport -BACKUP-
+#http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146068
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", group-title="Astro SuperSport" ,MY: Astro SuperSport 2 -BACKUP-
+#http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157556
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png", group-title="Astro SuperSport" ,MY: Astro SuperSport 3 -BACKUP-
+#http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157557
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", group-title="Astro SuperSport" ,MY: Astro SuperSport 4 -BACKUP-
+#http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157558
