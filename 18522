@@ -607,6 +607,10 @@ https://linears-playback.astro.com.my/vsg/41_JWsOboO1jTXC3y6nYVZMNQepwr0X_nnjpVT
 #EXTINF:-1 tvg-id="306" ch-number="306" group-title="Malaysia: Astro On The Go" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC ALT 1
 https://tv.kpsvpn.com/astroec.mpd
 
+#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://iili.io/1NBT5F.png",306 Astrox AEC ALT 2
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053185
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2019dd03e75adfc2f58ec94eff26d810&key=79dc64991db24e051b3cb7b39e59e8c3
 #EXTINF:-1 tvg-id="307" ch-number="AstroShuangXing" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Shuang_Xing_v1.png" group-title="Malaysia: Astro On The Go",Astro Shuang Xing 
@@ -683,6 +687,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 https://live.astradamy.com/astro/huaheedai/index.mpd
 http://iptv12k.com:35461/80201033004/324542/707
 https://linears-playback.astro.com.my/vsg/41_JWsOboO1jTXC3y6nYVZMA7rhS3shVZPzHq3QXqvK7w=peL9/dash-wv/jitp-linearwm/2308/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=50f975bfac7d0c485fa36d54d2bba610&key=db4f4d75ac6d065e0fa1c0b6400251ab
+#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://iili.io/1NB4Xj.png",333 Astrox Hua Hee Dai ALT1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
