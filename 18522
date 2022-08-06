@@ -13,61 +13,13 @@
 
 
 
---------------------- RTMKlik -----------------------
-
-#EXTINF:-1 tvg-id="RTMK01" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Malaysia: RTMKlik",TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-http://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-
-#EXTINF:-1 tvg-id="RTMK02" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="Malaysia: RTMKlik",TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/manifest.mpd
-http://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-
-#EXTINF:-1 tvg-ID="RTMK06" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Malaysia: RTMKlik",TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-https://rtm7hd.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.mpd
-http://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-
-#EXTINF:-1 tvg-ID="RTMK03" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Malaysia: RTMKlik",OKEY
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-http://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
-#EXTINF:-1 tvg-ID="RTMK04" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/berita%20rtm.png" group-title="Malaysia: RTMKlik",BERITA RTM
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-https://rtm3hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-http://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-
-#EXTINF:-1 tvg-id="RTMK05" group-title="Malaysia: RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM SUKAN
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/manifest.mpd
-http://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
-#EXTINF:-1 tvg-ID="RTMK07" tvg-logo="https://i.imgur.com/i7Z8C1s.png" group-title="Malaysia: RTMKlik",RTM PARLIMEN
-https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
-http://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
-
-
 --------------------- Tonton Xtra -----------------------
 
-#EXTINF:-1 tvg-ID="103" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia: Tonton Xtra",TV3
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-ID="103" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia: Tonton Xtra",TV3 HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 group-title="Malaysia: Tonton Xtra" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 2
+#EXTINF:-1 group-title="Malaysia: Tonton Xtra" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
