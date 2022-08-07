@@ -1740,5 +1740,7 @@ http://astro1.rastream.com/amp-arena
 #EXTINF:-1 tvg-id="tv.101305050550" tvg-logo="https://i.mjh.nz/.images/tv.101305050550.png",Seven
 https://i.mjh.nz/au/Adelaide/tv.101305050550.m3u8
 
+#EXTINF:-1 tvg-id="tv.101305020520" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png",Seven
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 
