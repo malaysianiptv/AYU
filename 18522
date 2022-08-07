@@ -1055,6 +1055,7 @@ http://iptv12k.com:35461/80201033004/324542/595
 http://group2-swiftservesd-1.dens.tv/s/s04/index.m3u8
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="SCTV.id" group-title="Indonesia: Channel"tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
@@ -1734,4 +1735,5 @@ http://astro1.rastream.com/amp-arena
 
 
 
-
+#EXTINF:-1,INDOSIAR
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
