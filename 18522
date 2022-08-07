@@ -1737,7 +1737,8 @@ http://astro2.rastream.com/gegar
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.astroawani.com/images/stdastro_300x250_arena_1.jpg" group-title="Radio", ARENA FM
 http://astro1.rastream.com/amp-arena
 
-
+#EXTINF:-1 tvg-id="tv.101305050550" tvg-logo="https://i.mjh.nz/.images/tv.101305050550.png",Seven
+https://i.mjh.nz/au/Adelaide/tv.101305050550.m3u8
 
 
 
