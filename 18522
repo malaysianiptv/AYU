@@ -534,6 +534,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 #EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Malaysia: Astro On The Go" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD MOVIE" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="Malaysia: Astro On The Go",HBO HD MOVIE
+http://iptv12k.com:35461/80303040201/424567/1892
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
