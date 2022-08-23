@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTM3U x-url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml.gz"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
+
 
 
 
