@@ -1,5 +1,7 @@
-#EXTM3U
-#EXTM3U x-tvg-url="https://github.com/weareblahs/epg/blob/master/astro.xml"
+#EXTM3U x-tvg-url="
+https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,
+https://weareblahs.github.io/epg/astro.xml,
+https://weareblahs.github.io/epg/astro.xml.gz"
 
 
 
