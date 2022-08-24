@@ -1832,6 +1832,10 @@ http://172.96.140.34:9138/stream/live/c20415.m3u8
 https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OpwBpdDUUybHyFrx3bIslng=iOde/dash-wv/jitp-linearwm/2104/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
 
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png" group-title="SPORTS",Astro SuperSport 2 ALT 1
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
+
+
 
 
 
@@ -1843,7 +1847,8 @@ http://172.96.140.34:9138/stream/live/c20416.m3u8
 https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgqkAi7qOIsTC56rWXRnW34M=095K/dash-wv/jitp-linearwm/2701/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 
-
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png" group-title="SPORTS",Astro SuperSport 3 ALT 1
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115617
 
 
 
@@ -1854,6 +1859,9 @@ https://networkbest.ru.com/cdn/premium126/playlist.m3u8|Referer=https://player.l
 http://172.96.160.37:9138/stream/live/c20417.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
+
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png" group-title="SPORTS",Astro SuperSport 4 ALT 1
+http://139.99.96.163:2095/live/User39281/UDnAlgqObgx/146.ts
 
 
 
