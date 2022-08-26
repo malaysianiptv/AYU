@@ -265,17 +265,9 @@ https://live.astradamy.com/astro/vinmeen/index.mpd
 https://linears-playback.astro.com.my/vsg/41xB8gCgwPHfd6hkLEqN9RcpyNnipRg0wWr5_iZdDFgZQ=8Z8l/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2105
-https://links.aqfadtv.xyz/vinmeen.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704295
-https://Astro.kpsboyserver.com/AstroVinmeen.mpd
-
-#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Malaysia: Astro On The Go" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b99cf66a51cfe4502e73ada5729d9010&key=663541fe51f4c095cd23097730ef7608
-https://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_primary.mpd
+#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
+# http://iptv12k.com:35461/8022011502/123456/677
+https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
 
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Malaysia: Astro On The Go" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
