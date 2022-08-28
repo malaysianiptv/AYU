@@ -161,6 +161,9 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 10
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053177
+
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="Malaysia: Astro On The Go", Astro Citra backup 1
