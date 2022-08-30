@@ -340,6 +340,101 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #EXTINF:-1 tvg-id="251" ch-number="BollyOneHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="Malaysia: Astro On The Go",Astro Bollyone HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
+
+
+--------
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name="IN:  Tamil: Sun tv HD Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" group-title="🇮🇳 INDIA",IN:  Tamil: Sun tv HD Tamil
+http://iptv12k.com:35461/64920220731001/432158/1863
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Vijay India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="🇮🇳 INDIA",IN: Star Vijay India
+http://iptv12k.com:35461/64920220731001/432158/1862
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | VIJAY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="🇮🇳 INDIA",IN : Tamil | VIJAY HD
+http://iptv12k.com:35461/64920220731001/432158/1861
+#EXTINF:-1 tvg-id="JayaMax.in" tvg-name="IN : Tamil | JAYA MAX USA" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="🇮🇳 INDIA",IN : Tamil | JAYA MAX USA
+http://iptv12k.com:35461/64920220731001/432158/1855
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | JAYA PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Jaya-plus.png" group-title="🇮🇳 INDIAL",IN : Tamil | JAYA PLUS
+http://iptv12k.com:35461/64920220731001/432158/1853
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | JAYA TV" tvg-logo="https://e7.pngegg.com/pngimages/630/474/png-clipart-jaya-tv-television-channel-television-show-star-vijay-tv-news-television-logo.png" group-title="🇮🇳 INDIA",IN : Tamil | JAYA TV
+http://iptv12k.com:35461/64920220731001/432158/1852
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | POLIMER NEWS" tvg-logo="https://i.pinimg.com/564x/3d/a6/3b/3da63b430306e1cad377ad1ba116ae3d.jpg" group-title="🇮🇳 INDIA",IN : Tamil | POLIMER NEWS
+http://iptv12k.com:35461/64920220731001/432158/1848
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | POLIMER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="🇮🇳 INDIA",IN : Tamil | POLIMER TV
+http://iptv12k.com:35461/64920220731001/432158/1847
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | PUTHIYA THALAIMURAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Puthiya_Thalaimurai_TV_Logo.jpg" group-title="🇮🇳 INDIAL",IN : Tamil | PUTHIYA THALAIMURAI
+http://iptv12k.com:35461/64920220731001/432158/1846
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | PUTHUYUGAM TV" tvg-logo="https://live.staticflickr.com/5179/5574629283_fbdc09eaf6_n.jpg" group-title="🇮🇳 INDIA",IN : Tamil | PUTHUYUGAM TV
+http://iptv12k.com:35461/64920220731001/432158/1845
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | RAJ DIGITAL PLUS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="🇮🇳 INDIAL",IN : Tamil | RAJ DIGITAL PLUS
+http://iptv12k.com:35461/64920220731001/432158/1844
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | RAJ DIGITAL PLUS US" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-digital-plus-black.png" group-title="🇮🇳 INDIA",IN : Tamil | RAJ DIGITAL PLUS US
+http://iptv12k.com:35461/64920220731001/432158/1843
+#EXTINF:-1 tvg-id="RajTV.in" tvg-name="IN : Tamil | RAJ TV" tvg-logo="https://i.pinimg.com/736x/a3/5e/52/a35e52ed2e215eaa8fa231889e5a696d--tv-watch-app-android.jpg" group-title="🇮🇳 INDIA",IN : Tamil | RAJ TV
+http://iptv12k.com:35461/64920220731001/432158/1841
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | STAR VIJAY india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Star-Vijay.png" group-title="🇮🇳 INDIA",IN : Tamil | STAR VIJAY india
+http://iptv12k.com:35461/64920220731001/432158/1839
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | SUN MUSIC" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7aef366f3467ba8f3d8c1/1565807039141/dc32d57a543b658d9c57e4fb312dea11.jpg" group-title="🇮🇳 INDIA",IN : Tamil | SUN MUSIC
+http://iptv12k.com:35461/64920220731001/432158/1837
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | SUN NEWS" tvg-logo="https://img.favpng.com/6/25/2/television-channel-captain-news-tamil-sun-tv-png-favpng-rA1S4974KsWGL517TbzXajGq0.jpg" group-title="🇮🇳 INDIA",IN : Tamil | SUN NEWS
+http://iptv12k.com:35461/64920220731001/432158/1836
+#EXTINF:-1 tvg-id="" tvg-name="IN : Tamil | VASANTH TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/vasanth-TV.png" group-title="🇮🇳 INDIA",IN : Tamil | VASANTH TV
+http://iptv12k.com:35461/64920220731001/432158/1835
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title="🇮🇳 INDIA" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
