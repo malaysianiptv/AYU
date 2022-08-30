@@ -2024,3 +2024,12 @@ http://172.96.160.37:9138/stream/live/c20417.m3u8
 #EXTINF: -1 tvg-id="815" group-title="SPORTS" ch-number="815" tvg-logo="https://1.bp.blogspot.com/-G1ybsVj3pVM/YVfh0eGkIwI/AAAAAAAAAFA/24zokUAS_fchmnChJzlGaeiAnac7fA9JgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Astro_Supersport_5.png",815 Astro SuperSport 5 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[AU] 7 Perth AU" tvg-logo="https://asset-cdn.campaignbrief.com/wp-content/uploads/sites/3/2019/12/04111316/Seven_Logo169_BLOG.jpg" group-title="australia",7 AU
+http://iptv12k.com:35461/64920220731001/432158/3412
+
