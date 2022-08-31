@@ -2015,6 +2015,26 @@ http://172.96.160.37:9138/stream/live/c20417.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports xtra -1 HD
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9851&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports xtra -2 HD
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9849&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" group-title="SPORTS",BT sports xtra -3 HD
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9847&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Watan Sports 2
+#EXTINF:-1tvg-logo="https://i.imgur.com/KRuxZSs.png"group-title="SPORTS",Halow Sports
+
+
+
+
+
+
+
+
+
+
 
 
 
