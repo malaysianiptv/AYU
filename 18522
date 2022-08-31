@@ -907,7 +907,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="https://download.logo.wine/logo/Disney_XD_(Southeast_Asian_TV_channel)/Disney_XD_(Southeast_Asian_TV_channel)-Logo.wine.png" group-title="Malaysia: Astro On The Go",Disney XD HD
 http://iptv12k.com:35461/64920220731001/432158/626
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="https://download.logo.wine/logo/Disney_XD_(Southeast_Asian_TV_channel)/Disney_XD_(Southeast_Asian_TV_channel)-Logo.wine.png" group-title="Malaysia(MY)",Disney XD HD
+http://iptv12k.com:35461/64920220731001/432158/626
 
 
 
