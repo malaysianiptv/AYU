@@ -1822,25 +1822,13 @@ https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
 #EXTINF:-1   group-title="SPORTS",Fox Sport 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Malaysia: VIP IPTV",Super Premier League
-https://segumpalnenen.herokuapp.com/index.m3u8?id=superpremier
+
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Malaysia: VIP IPTV",SkySport Premiere League
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/127985.m3u8
 
 #EXTINF:-1 xui-id="90269" tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eurosport_1_UK.png" group-title="Malaysia: VIP IPTV",Eurosport 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Malaysia: VIP IPTV",BT Sport 1
-https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp1
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Malaysia: VIP IPTV",BT Sport 2
-https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp2
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Malaysia: VIP IPTV",BT Sport 3
-https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp3
 
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6550.1489223922.png" group-title="Malaysia: VIP IPTV",Fox Sport 507
@@ -1850,9 +1838,6 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141758.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9dxQL7c146yndHlbY91phYOpXnTOIwq1NhcEl6NXHQfefF7o6LdJKDI&s=10" group-title="Malaysia: VIP IPTV",Fox Sport 506
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141759.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Fox-sports-3-colour.png/revision/latest/scale-to-width-down/200?cb=20170407121736" group-title="Malaysia: VIP IPTV",Fox Sport 505
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141760.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://f053-194-233-88-110.ap.ngrok.io/drm/?decryptKey=XianZheng&cid=9211  
@@ -1864,24 +1849,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest/scale-to-width-down/284?cb=20191224175551" group-title="Malaysia: VIP IPTV" , REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?cp=en
 
-#EXTINF:-1 tvg-id="824" tvg-logo="https://i.imgur.com/X7h09MM.png" group-title="Malaysia: VIP IPTV",CRICKET
-http://iptv12k.com:35461/80201033004/324542/992
-
-#EXTINF:-1 tvg-id="822" tvg-logo="https://i.imgur.com/ejuWKh7.png" group-title="Malaysia: VIP IPTV",GOLF
-http://iptv12k.com:35461/80201033004/324542/651
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="818" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="Malaysia: VIP IPTV",BEIN SPORTS 1
-https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="817" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="Malaysia: VIP IPTV",BEIN SPORTS 2
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#EXTINF:-1 tvg-id="819" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Malaysia: VIP IPTV",BEIN SPORTS 3
-http://iptv12k.com:35461/80201033004/324542/960
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
