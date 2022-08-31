@@ -14,9 +14,22 @@
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 group-title="Malaysia: Tonton Xtra" tvg-logo="https://freeview.github.io/logos/tv3.png",TV3-A
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+
+
+
 #EXTINF:-1 tvg-ID="147" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="Malaysia: Tonton Xtra",NTV 7 KPM
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:-1 group-title="Malaysia: Tonton Xtra" tvg-logo="https://freeview.github.io/logos/ntv7.png",NTV7-A
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+
 
 #EXTINF:-1 tvg-ID="148" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia: Tonton Xtra",8TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -81,10 +94,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.m
 #EXTINF:-1 tvg-id="101" ch-number="101" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
+#EXTINF:-1 group-title="Malaysia: Astro On The Go" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1-A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=389baefb18db84b8f62b1bddfda5c810&key=db6410d5d69b60fb66208f61cd4bef44
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
 #EXTINF:-1 tvg-id="102" ch-number="102" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
+
+#EXTINF:-1 group-title="Malaysia: Astro On The Go" tvg-logo="https://freeview.github.io/logos/tv2.png",TV2-A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
