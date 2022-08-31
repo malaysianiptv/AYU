@@ -2057,3 +2057,92 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-name="[AU] 7 Perth AU" tvg-logo="https://asset-cdn.campaignbrief.com/wp-content/uploads/sites/3/2019/12/04111316/Seven_Logo169_BLOG.jpg" group-title="australia",7 AU
 http://iptv12k.com:35461/64920220731001/432158/3412
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PHI: ABS CBN h d" tvg-logo="" group-title="filipines",PHI: ABS CBN h d
+http://iptv12k.com:35461/64920220731001/432158/9777
+#EXTINF:-1 tvg-id="" tvg-name="PHI: CRIME INVESTIGATION h d" tvg-logo="" group-title="filipines",PHI: CRIME INVESTIGATION h d
+http://iptv12k.com:35461/64920220731001/432158/9775
+#EXTINF:-1 tvg-id="" tvg-name="PHI: DISCOVERY ASIA WORLD h d" tvg-logo="" group-title="filipines",PHI: DISCOVERY ASIA WORLD h d
+http://iptv12k.com:35461/64920220731001/432158/9774
+#EXTINF:-1 tvg-id="" tvg-name="PHI: DZMM TELERADYO h d" tvg-logo="" group-title="filipines",PHI: DZMM TELERADYO h d
+http://iptv12k.com:35461/64920220731001/432158/9773
+#EXTINF:-1 tvg-id="" tvg-name="PHI: GNN PKh d" tvg-logo="" group-title="filipines",PHI: GNN PKh d
+http://iptv12k.com:35461/64920220731001/432158/9772
+#EXTINF:-1 tvg-id="" tvg-name="PHI: GMA LIFE h d" tvg-logo="" group-title="filipines",PHI: GMA LIFE h d
+http://iptv12k.com:35461/64920220731001/432158/9770
+#EXTINF:-1 tvg-id="" tvg-name="PHI: GMA News h d" tvg-logo="" group-title="filipines",PHI: GMA News h d
+http://iptv12k.com:35461/64920220731001/432158/9769
+#EXTINF:-1 tvg-id="" tvg-name="PHI: SMNI TV h d" tvg-logo="" group-title="filipines",PHI: SMNI TV h d
+http://iptv12k.com:35461/64920220731001/432158/9768
+#EXTINF:-1 tvg-id="" tvg-name="PHI: &Flix h d" tvg-logo="" group-title="filipines",PHI: &Flix h d
+http://iptv12k.com:35461/64920220731001/432158/9767
+#EXTINF:-1 tvg-id="" tvg-name="PHI: &Prive h d" tvg-logo="" group-title="filipines",PHI: &Prive h d
+http://iptv12k.com:35461/64920220731001/432158/9766
+#EXTINF:-1 tvg-id="" tvg-name="PHI | Bloomberg TV Asia Live Event" tvg-logo="" group-title="filipines",PHI | Bloomberg TV Asia Live Event
+http://iptv12k.com:35461/64920220731001/432158/9755
+#EXTINF:-1 tvg-id="" tvg-name="PHI | Bloomberg TV" tvg-logo="" group-title="filipines",PHI | Bloomberg TV
+http://iptv12k.com:35461/64920220731001/432158/9754
+#EXTINF:-1 tvg-id="" tvg-name="PHI | Super Radyo DZBB" tvg-logo="" group-title="filipines",PHI | Super Radyo DZBB
+http://iptv12k.com:35461/64920220731001/432158/9753
+#EXTINF:-1 tvg-id="" tvg-name="[PHI] ABS CBN" tvg-logo="" group-title="filipines",[PHI] ABS CBN
+http://iptv12k.com:35461/64920220731001/432158/9751
+#EXTINF:-1 tvg-id="" tvg-name="[PHI] GMA News" tvg-logo="" group-title="filipines",[PHI] GMA News
+http://iptv12k.com:35461/64920220731001/432158/9748
+#EXTINF:-1 tvg-id="" tvg-name="[PHI] ASIA NEWS" tvg-logo="" group-title="filipines",[PHI] ASIA NEWS
+http://iptv12k.com:35461/64920220731001/432158/9747
+#EXTINF:-1 tvg-id="" tvg-name="[PHI] DISCOVERY ASIA WORLD" tvg-logo="" group-title="filipines",[PHI] DISCOVERY ASIA WORLD
+http://iptv12k.com:35461/64920220731001/432158/9746
+#EXTINF:-1 tvg-id="" tvg-name="PHI | WARNER TV FR" tvg-logo="http://pakiptv.top:8880/images/87f6950fc1f2acc4e329cc2c4d0b7643.png" group-title="filipines",PHI | WARNER TV FR
+http://iptv12k.com:35461/64920220731001/432158/9743
+#EXTINF:-1 tvg-id="" tvg-name="PHI | NHK WORLD" tvg-logo="http://pakiptv.top:8880/images/3a0424886d9ef2e45cb78f52b74d90dc.png" group-title="filipines",PHI | NHK WORLD
+http://iptv12k.com:35461/64920220731001/432158/9742
+#EXTINF:-1 tvg-id="" tvg-name="PHI | SMNI" tvg-logo="http://pakiptv.top:8880/images/3199a1824e6180c292192120e2daff8f.png" group-title="filipines",PHI | SMNI
+http://iptv12k.com:35461/64920220731001/432158/9740
+#EXTINF:-1 tvg-id="" tvg-name="PHI | PBS Kids USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="filipines",PHI | PBS Kids USA
+http://iptv12k.com:35461/64920220731001/432158/9739
+#EXTINF:-1 tvg-id="" tvg-name="PHI | CGTN Documentary" tvg-logo="http://pakiptv.top:8880/images/5eda05d25951c997e4976c5d1b7bedac.png" group-title="filipines",PHI | CGTN Documentary
+http://iptv12k.com:35461/64920220731001/432158/9738
+#EXTINF:-1 tvg-id="" tvg-name="PHI | eGG Network" tvg-logo="http://pakiptv.top:8880/images/078a41c0b5a782b21a9485242d3cc172.png" group-title="filipines",PHI | eGG Network
+http://iptv12k.com:35461/64920220731001/432158/9737
+#EXTINF:-1 tvg-id="" tvg-name="PHI | Fox News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="filipines",PHI | Fox News Channel
+http://iptv12k.com:35461/64920220731001/432158/9736
+#EXTINF:-1 tvg-id="" tvg-name="PHI | ABC TV Australia" tvg-logo="http://pakiptv.top:8880/images/91f96720968f46e3544db49f9151f235.png" group-title="filipines",PHI | ABC TV Australia
+http://iptv12k.com:35461/64920220731001/432158/9733
+#EXTINF:-1 tvg-id="" tvg-name="PHI: ASIA NEWS" tvg-logo="" group-title="filipines",PHI: ASIA NEWS
+http://iptv12k.com:35461/64920220731001/432158/9732
+#EXTINF:-1 tvg-id="" tvg-name="PHI: WARNER TV FR" tvg-logo="" group-title="filipines",PHI: WARNER TV FR
+http://iptv12k.com:35461/64920220731001/432158/9731
+#EXTINF:-1 tvg-id="" tvg-name="PHI: PBS Kids USA" tvg-logo="" group-title="filipines",PHI: PBS Kids USA
+http://iptv12k.com:35461/64920220731001/432158/9730
+#EXTINF:-1 tvg-id="" tvg-name="PHI: CRIME INVESTIGATION" tvg-logo="" group-title="filipines",PHI: CRIME INVESTIGATION
+http://iptv12k.com:35461/64920220731001/432158/9729
+#EXTINF:-1 tvg-id="" tvg-name="PHI: DISCOVERY ASIA WORLD" tvg-logo="" group-title="filipines",PHI: DISCOVERY ASIA WORLD
+http://iptv12k.com:35461/64920220731001/432158/9728
+#EXTINF:-1 tvg-id="" tvg-name="PHI: DZMM TELERADYO" tvg-logo="" group-title="filipines",PHI: DZMM TELERADYO
+http://iptv12k.com:35461/64920220731001/432158/9727
+#EXTINF:-1 tvg-id="" tvg-name="PHI: GNN PK" tvg-logo="" group-title="filipines",PHI: GNN PK
+http://iptv12k.com:35461/64920220731001/432158/9726
+#EXTINF:-1 tvg-id="" tvg-name="PHI: SMNI TV" tvg-logo="" group-title="filipines",PHI: SMNI TV
+http://iptv12k.com:35461/64920220731001/432158/9724
+#EXTINF:-1 tvg-id="" tvg-name="PHI: &Flix" tvg-logo="" group-title="filipines",PHI: &Flix
+http://iptv12k.com:35461/64920220731001/432158/9723
+#EXTINF:-1 tvg-id="" tvg-name="PHI: &Prive" tvg-logo="" group-title="filipines",PHI: &Prive
+http://iptv12k.com:35461/64920220731001/432158/9722
+#EXTINF:-1 tvg-id="" tvg-name="PHI: Bloomberg TV Asia Live Event" tvg-logo="" group-title="filipines",PHI: Bloomberg TV Asia Live Event
+http://iptv12k.com:35461/64920220731001/432158/9721
+
