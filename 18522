@@ -119,7 +119,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astrox Prima ALT
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astro Prima ALT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
 http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/157467.m3u8
@@ -179,13 +179,13 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
 
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HDNEW" group-title="Malaysia: Astro On The Go" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HDNEW" group-title="Malaysia: Astro On The Go" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ALT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 1
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna ALT 1
 https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053177
 
 
@@ -205,10 +205,28 @@ https://aqfadtv.xyz/warna.m3u8
 
 
 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+http://172.96.140.34:9138/stream/live/c20631.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
+#http://51.81.208.129:35461/80301070602/456776/721
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra ALT 1
+https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMxOoV29CS93LS6EEnsDh15M
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
+#https://m3u-editor.com/serve/qwe1234123412/463614333
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
+#https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053178
 
 
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="Malaysia: Astro On The Go", Astro Citra backup 1
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="Malaysia: Astro On The Go", Astro Citra ALT 2
 http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782413
 
