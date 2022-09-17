@@ -1192,11 +1192,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
-#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Indonesia", INDOSIAR
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-
-
-
 EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Zq_sports 
 https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Zq_Football_Channel
