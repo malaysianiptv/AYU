@@ -1827,3 +1827,70 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polimer_in_news.png" tvg-id="636", Polimer News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705564/ei/fM0pY5SLFti3ir4P7oazqAU/ip/52.165.19.253/id/pjtqXBTWliE.14/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANEOe0fL8YLeDdkKC_VOQg-RE9GDtFEbUk0G0r_PhI2gAiAPRs1EhufdtTQI3TfRizyB1P-WxEYhpRQ3Av7tZPlsuA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news7_tamil_in.png" tvg-id="673", News7 Tamil Prime
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705565/ei/fM0pY57fOKOYlu8P_NGvsAM/ip/52.165.19.253/id/buqxHJ42aQo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24277544/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEsNVsG065WD1kFpGJqeMF8ei6t8h6oxG9iSiydTv51kCIBStcAGObUtYZIGnVk8uwNLrfDIiceXE0kVIlhQ5Zw5A/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news-j-in.png" tvg-id="", News J
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705565/ei/fc0pY8rfIOmklu8P37uCiAk/ip/52.165.19.253/id/009DDf7kJYM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI4sKOHnMHGfzA5nwu39SKIK7QZQXk5N5b-UyMhVFmGvAiA7PWtCAm14-4hyVJynhEC1j5q3IGF8kCRnOj5hloFvpA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705566/ei/fs0pY-byAv6N_tcPn4aToAs/ip/52.165.19.253/id/FeweQREkl44.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSZvGKf-81IwFHxi5fy1sgnG_8ggYSRJ4XdXzYhr5XzMCIQD7APpzBnfjIKy3p8RkMtOo5BE50wixFTIlLqsrVJSnZw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", News18 TamilNadu
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705566/ei/fs0pY5P2JaLJiwSYjKioAg/ip/52.165.19.253/id/kdKN_YQ6D9U.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZFPJUGm4tylNAi6fWR6zwjHotbKRHL2SR15xVqW8uD8CIQCz6iI9WxHWdSj8s4-u9oaueYhTqYETY_n2-1MMenCt7Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_24x7.png" tvg-id="", Raj News Tamil
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705567/ei/f80pY_GiCaaylu8PsJS2yAY/ip/52.165.19.253/id/5SQ-oNdJiVA.1/source/yt_live_broadcast/requiressl/yes/tx/24280139/txs/24280135%2C24280136%2C24280137%2C24280138%2C24280139/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM8m1MTDGwVT5_famunpnbOhXahuIlCmM6HMNRHG6DVwAiBZn4hR54LfGl3RrV_BQikM551uoUIl3tbFKzIsn3blsw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/puthiya_thalaimurai.png" tvg-id="677", Puthiya Thalaimurai
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705567/ei/f80pY42TMf6N_tcPn4aToAs/ip/52.165.19.253/id/NX18e_Wh7NA.204/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfWWlRZ-ZRHPx0_-FUUVtxfPAbhZQ9EmK8fhmt8OD7MICIAvSta7UbhS0utZosVThIA1EwHdct71YFmTPF-eBcu0J/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705568/ei/gM0pY-GzEZeA_tcP3qmm8A8/ip/52.165.19.253/id/NX18e_Wh7NA.204/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKPSNk-IBYGaOVSnok-fkAMZc-NxHl7Mtj1LG5fT1qCFAiEAuXD1X9M35bf9uEPYxezIJilNMlse3ep73qaFyOWJgdo%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kairali-news-in.png" tvg-id="", Kalaignar TV News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705568/ei/gM0pY-rHMYORigTKrbeIDA/ip/52.165.19.253/id/nxt9qs3LXX0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO-5uCouEXqnyqRoMwamW_A1I0RFCZx8GWujOF6xiHIZAiB-JeI05HLuGjwjpLwMG7F0UWlklpeIdqfn_LZ4g77KAw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_news_in.png" tvg-id="", Sun News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705569/ei/gc0pY73MFaellu8P7rW70AU/ip/52.165.19.253/id/2ywxK3HC4iA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPzj-NfjEwLhy-UrFel19M-joMfl9-Cs2GOYLX968bPHAiEA6Rw1O6wdZ7c5jCzgJPDfzoBMSckq6yq2B0j6nIPOhKE%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jaya_in_plus.png" tvg-id="", Jaya Plus
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705570/ei/gc0pY_DTNYea2_gPtPWR0A4/ip/52.165.19.253/id/5DK_TroqDd4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJdqDffD9NhR2cGw-P5KKkYnXJlWyMqTfZ_e9GfWJ_R_AiEA9BbWNFCffUw4PlCAVmtrsEnGW1k3QsgitVjMDzAZ_p4%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/captain_news_in.png" tvg-id="", CAPTAIN NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705570/ei/gs0pY524F9-V2_gP_8-fmAE/ip/52.165.19.253/id/Oe3TqU00KB0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRu-k0owXogzVFbOFAnmZa7HuxWqLm_ncPdgavMuQoZICIEhYjsgVG36thncDbtV6uBvjyXJKOq-vfCz0A16tqFFB/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/captain_tv.png" tvg-id="", CAPTAIN TV
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", Sathiyam News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705572/ei/g80pY5iEO-yHir4P8YWAmAc/ip/52.165.19.253/id/wl55mzkHdN4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPlWrizuOgk1Ezcmz--OhpAKb6ePS5Aacu6dkU5kaIWxAiAlDjenXwP981peADABlkLV3ywF7gY36w4ZZhjl3Qj35w%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", Malaimurasu News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705572/ei/hM0pY-77JcnBigSr_bKQDQ/ip/52.165.19.253/id/8xgXzboJXDo.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKFE3GfAQnOGkA_5wVedbzGyiHoWI2yuagH62t-umNW5AiAcB1N7SiKPQnrV8uQXlZPBcaVOptdpagAQpPakYP3fXQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", Malaimurasu News Digital
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vtv-news-in.png" tvg-id="", V News27
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705573/ei/hc0pY7aiKd-R_tcPzreWwAI/ip/52.165.19.253/id/fQDdBeKvEWg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM2bNs0ofXBargCZF_WivWUoAbH_iKpibMUlFAaiVZTWAiEA2BmeotBBXx8LN5_5zOvj-imEyzc1XcBdfwPNWwATWtU%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", STV News 24/7
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", SVBC TTD Tamil
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663705575/ei/h80pY5XrLs2Eir4PxPuu6AU/ip/52.165.19.253/id/ALs4bkGvfL0.1/source/yt_live_broadcast/requiressl/yes/tx/24268153/txs/24268153%2C24268154%2C24268155/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbvzwAMhhGLfJFkzJwdHVEEwhsX5NFh_ztgrQa-8TQ30CIQCWxkNG-_crB2mCWmVpho-rU7p51GwZfxn6uFp7PXTtBg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", SVBC TTD Tamil
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", Star Music India
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
