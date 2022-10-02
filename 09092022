@@ -1345,6 +1345,11 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9831&extensi
 
 
 
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="ENGLISH MOVIES",MovieHUB 
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="ENGLISH MOVIES",MoviesMIX
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
