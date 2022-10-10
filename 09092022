@@ -331,8 +331,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
 
+#EXTINF:-1 tvg-id="AstroVinmeenHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" group-title="Malaysia: Astro On The Go",Astro Vinmeen NEW
+http://172.96.160.37:9138/stream/live/c21066.m3u8
 
-#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://iili.io/1NuZbI.png",202 Astro Vinmeen 
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="Malaysia: Astro On The Go" tvg-logo="https://iili.io/1NuZbI.png",202 Astro Vinmeen 3
 https://bit.ly/3Bqj97r
 
 
@@ -350,6 +352,7 @@ http://iptv12k.com:35461/8032022060101/452381/675
 #EXTINF:-1 tvg-id="202" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="Malaysia: Astro On The Go",Astro Vinmeen HD
 https://live.astradamy.com/astro/vinmeen/index.mpd
 https://linears-playback.astro.com.my/vsg/41xB8gCgwPHfd6hkLEqN9RcpyNnipRg0wWr5_iZdDFgZQ=8Z8l/dash-wv/jitp-linearwm/2105/default_ott.mpd
+
 
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
