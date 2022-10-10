@@ -353,6 +353,10 @@ http://iptv12k.com:35461/8032022060101/452381/675
 https://live.astradamy.com/astro/vinmeen/index.mpd
 https://linears-playback.astro.com.my/vsg/41xB8gCgwPHfd6hkLEqN9RcpyNnipRg0wWr5_iZdDFgZQ=8Z8l/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
+#EXTINF:-1 group-title="Malaysia: Astro On The Go",ASTRO VINMEEN HD NEW1
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37344
+
+
 
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Malaysia: Astro On The Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
