@@ -11,3 +11,54 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1602
 #EXTINF:-1 tvg-id="AstroSupersportUHD2" ch-number="806" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="Sports", Astro SuperSport UHD 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.
+
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022",咪咕4K-A场-移动
+http://117.136.156.70:80/000000001000/3000000010000015686/index.m3u8?
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022",咪咕4K-B场-移动
+http://117.136.156.69:80/000000001000/3000000010000005180/index.m3u8?
+
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
+http://vn2.cvacetv.ga/WC1
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png",CVmedia Live World Cup 2
+http://vn2.cvacetv.ga/WC2
+
+
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 1
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470049
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 2
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470050
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 3
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470051
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 4
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470052
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 5
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470053
+#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="PIALA DUNIA QATAR 2022", LIVE 6
+https://m3u-editor.com/serve/b63d5590-7869-11ed-be87-fb2108e199b8/711470054
+
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 01
+http://iptv12k.com:35461/80203091402/213445/14402
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 02
+http://iptv12k.com:35461/80203091402/213445/14403
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 03
+http://iptv12k.com:35461/80203091402/213445/14405
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 04
+http://iptv12k.com:35461/80203091402/213445/14404
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 05
+http://iptv12k.com:35461/80203091402/213445/14407
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 06
+http://iptv12k.com:35461/80203091402/213445/14406
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 07
+http://iptv12k.com:35461/80203091402/213445/14401
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup",  World Cup Channel 08
+http://iptv12k.com:35461/80203091402/213445/14398
